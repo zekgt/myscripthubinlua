@@ -21,8 +21,6 @@ local CloseMain = Instance.new("TextButton")
 local OpenFrame = Instance.new("Frame")
 local OpenButton = Instance.new("TextButton")
 
---Properties:
-
 ScreenGui.Parent = game.CoreGui
 
 Main.Name = "Main"
